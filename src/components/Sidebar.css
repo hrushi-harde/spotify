@@ -1,0 +1,18 @@
+.sidebar {
+  width: 240px;
+  background-color: black;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.nav-links a {
+  display: block;
+  margin-bottom: 10px;
+  color: white;
+  text-decoration: none;
+}
